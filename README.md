@@ -66,8 +66,7 @@ Press Ctrl+C to stop the manager.
 
 ## 🤝 About
 
-Created by AI Manager - The Future of Management  
-Visit us at: [aimanagers.app](https://aimanagers.app)
+Created by AI Manager - The Future of Management
 
 ---
 

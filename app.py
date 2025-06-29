@@ -180,7 +180,7 @@ def main():
         manager.start_managing()
     except KeyboardInterrupt:
         print("\n👋 Goodbye! Remember: great things happen when you stay focused!")
-        print("Visit aimanagers.app for more AI management solutions!")
+
 
 if __name__ == "__main__":
     main()
